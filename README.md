@@ -5,7 +5,7 @@ Useful config files for various CS:GO related tasks.
 Remaps keyboard to several common demoui features that encourage efficiency while reviewing demos.
 
 ```
-SPACE Pause / unpause.
+SPACE: Pause / unpause.
 
 C: Hide bullethole decals and particle debris after grenades.
 
