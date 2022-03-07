@@ -6,18 +6,14 @@ Remaps keyboard to several common demoui features that encourage efficiency whil
 
 ```
 SPACE: Pause / unpause.
-
 C: Hide bullethole decals and particle debris after grenades.
-
 I: Show bullet impacts.
-
 R: Resume playback of demo.
-
 S: Show weapon inaccuracy / sprad.
-
 W: Draw other mdoels (sv_cheats xray).
-
 X: Enable / disable spectator x-ray.
+UpArrow: Zoom in
+DownArrow: Zoom out
 
 KEYPAD: Playback Speed
 * 0: 100% 
@@ -32,16 +28,4 @@ KEYPAD: Playback Speed
 * 9: 90%
 * plus: 500% 
 * minus: 1500%
-
-UpArrow: Zoom in
-DownArrow: Zoom out
-```
-
-## jumpthrow.cfg
-One button jump + throw command for breaking the game.
-
-```
-alias "+jumpthrow" "+jump;-attack" 
-alias "-jumpthrow" "-jump" 
-bind h "+jumpthrow"
 ```
