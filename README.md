@@ -1,5 +1,5 @@
-# csgo-configs
-Miscellaneous config files / code snippets for Counter-Strike: Global Offensive
+# CS:GO Game Configs
+#### Miscellaneous config files / code snippets for Counter-Strike: Global Offensive
 
 ## demoanalyst.cfg
 Remaps keyboard to several common demoui features that encourage efficiency while reviewing demos.
